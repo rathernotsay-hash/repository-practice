@@ -1,0 +1,3 @@
+Phylogenetic analysis is used to study evolutionary relationships between organisms or biological sequences.
+
+A phylogenetic tree represents these evolutionary relationships visually.
