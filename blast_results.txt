@@ -1,0 +1,5 @@
+BLAST is used to compare biological sequences against sequence databases.
+
+Example:
+Query protein: p53
+Analysis type: BLASTP

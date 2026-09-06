@@ -1,0 +1,2 @@
+Protein analysis is an important part of bioinformatics.
+Protein sequences can be compared to identify similarities between proteins.
