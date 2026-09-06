@@ -7,6 +7,7 @@ This project contains some basic biotechnology and bioinformatics information.
 - Bioinformatics
 - BLAST
 - Protein analysis
+
 ## Project Information
 
 This project demonstrates basic Git and GitHub workflow using biotechnology and bioinformatics examples.
